@@ -178,24 +178,6 @@
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
-    <Compile Include="Models\Quiz.cs">
-      <DependentUpon>quizModel.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\quizModel.Context.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>quizModel.Context.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\quizModel.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>quizModel.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\quizModel.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>quizModel.edmx</DependentUpon>
-    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
   </ItemGroup>
@@ -212,25 +194,8 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
-    <Content Include="Models\quizModel.Context.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>quizModel.edmx</DependentUpon>
-      <LastGenOutput>quizModel.Context.cs</LastGenOutput>
-    </Content>
-    <Content Include="Models\quizModel.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>quizModel.edmx</DependentUpon>
-      <LastGenOutput>quizModel.cs</LastGenOutput>
-    </Content>
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
-    <EntityDeploy Include="Models\quizModel.edmx">
-      <Generator>EntityModelCodeGenerator</Generator>
-      <LastGenOutput>quizModel.Designer.cs</LastGenOutput>
-    </EntityDeploy>
-    <Content Include="Models\quizModel.edmx.diagram">
-      <DependentUpon>quizModel.edmx</DependentUpon>
-    </Content>
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
