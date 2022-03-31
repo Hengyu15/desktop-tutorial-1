@@ -247,7 +247,6 @@ Z:\Projects\IEProj\desktop-tutorial\children\children\bin\zh-Hans\Microsoft.Owin
 Z:\Projects\IEProj\desktop-tutorial\children\children\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
 Z:\Projects\IEProj\desktop-tutorial\children\children\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
 Z:\Projects\IEProj\desktop-tutorial\children\children\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
-Z:\Projects\IEProj\desktop-tutorial\children\children\obj\Debug\children.csproj.AssemblyReference.cache
 Z:\Projects\IEProj\desktop-tutorial\children\children\obj\Debug\children.csproj.CoreCompileInputs.cache
 Z:\Projects\IEProj\desktop-tutorial\children\children\obj\Debug\children.csproj.CopyComplete
 Z:\Projects\IEProj\desktop-tutorial\children\children\obj\Debug\children.dll
